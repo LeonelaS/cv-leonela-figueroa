@@ -56,7 +56,7 @@ _Abril 2019 – Enero 2025_
 ## 🛠️ Habilidades Técnicas
 - **Herramientas de QA:** Jira, GitHub, Office, Google Drive  
 - **Testing:** Postman, Swagger, SQL (consultas)  
-- **Automatización (inicial):** n8n (JavaScript básico), Cypress E2E  
+- **Automatización (inicial):** n8n (JavaScript básico), Plawright (Typescript básico)  
 - **Soft skills:** Trabajo en equipo, empatía, comunicación efectiva, resolución de problemas, autodidacta, atención al detalle  
 
 ---
