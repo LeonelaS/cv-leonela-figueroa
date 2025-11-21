@@ -1,6 +1,6 @@
 # cv-leonela-figueroa
 # 👩‍💻 Leonela Solange Figueroa
-**QA Tester Manual | Web & Mobile | API | SQL | Playwright (Básico)**  
+**QA Tester Manual | Web & Mobile | API | SQL | Playwright **  
 
 ---
 
