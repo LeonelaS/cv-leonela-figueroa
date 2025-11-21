@@ -10,15 +10,16 @@
 ---
 
 ## 🔍 Sobre mí
-Soy **QA Tester** con experiencia en proyectos de control de calidad de software, especializada en:  
-- Pruebas manuales en **aplicaciones web y mobile**  
-- **Testing funcional, visual y de API** (Postman, Swagger)  
-- **Consultas SQL** para validación en base de datos  
-- Documentación completa del ciclo de pruebas  
-- Colaboración con equipos de desarrollo (Jira, GitHub, Confluence)  
+Soy QA Tester especializada en el control de calidad integral de software, con experiencia de 1 año en entornos tecnológicos y una sólida base formativa.
 
-Me caracterizo por una **comunicación fluida con equipos IT**, **atención al detalle** y **enfoque proactivo**.  
-Actualmente, estoy incorporando conocimientos en **automatización (n8n, Cypress)** para complementar mi perfil.  
+Mi expertise se centra en:
+
+1- Testing Funcional y Exploratorio en aplicaciones Web y Mobile.
+2- Validación de Backend mediante pruebas de API con Postman y Swagger.
+3- Manejo de Consultas SQL para la validación directa de datos y estados en bases de datos.
+4- Documentación exhaustiva del ciclo de vida del testing (Jira, GitHub).
+
+Me caracterizo por mi visión proactiva y mi atención al detalle. Actualmente, estoy consolidando conocimientos en automatización (Playwright y n8n), buscando un rol que me permita la transición hacia un perfil híbrido y aplicar mis habilidades técnicas en un equipo de alto rendimiento.  
 
 ---
 
@@ -30,7 +31,7 @@ _Febrero 2025 – Presente_
 - Colaboración en iniciativas de testing relacionadas con **IA**.  
 - Consultas en **bases de datos** para validaciones.  
 - Uso de **Swagger** para comprensión de APIs.  
-- Primer acercamiento a **n8n** como introducción a la automatización.  
+- Primer acercamiento a **Playwright** como introducción a la automatización.  
 
 **Encargada | Cerealera Norte**  
 _Abril 2019 – Enero 2025_  
@@ -56,7 +57,7 @@ _Abril 2019 – Enero 2025_
 ## 🛠️ Habilidades Técnicas
 - **Herramientas de QA:** Jira, GitHub, Office, Google Drive  
 - **Testing:** Postman, Swagger, SQL (consultas)  
-- **Automatización (inicial):** n8n (JavaScript básico), Plawright (Typescript básico)  
+- **Automatización (inicial):** n8n (JavaScript básico), Plawright (Typescript)  
 - **Soft skills:** Trabajo en equipo, empatía, comunicación efectiva, resolución de problemas, autodidacta, atención al detalle  
 
 ---
@@ -68,4 +69,6 @@ _Abril 2019 – Enero 2025_
 
 ---
 
-## 🖼️ Portfolio (en construcción) 
+## 🖼️ Portfolio 
+Podés ver mi proyecto de API testing aqui 
+- 🔗 https://github.com/LeonelaS/playwright-nasa-api-testing
